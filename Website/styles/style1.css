@@ -88,6 +88,7 @@
   text-align: center;
   color: var(--color4);
   padding: var(--siz-3);
+  justify-items: center;
 }
 
 .section-2 .cards div:hover{
@@ -122,6 +123,23 @@
   transition: 0.7s;
 border: var(--color4) var(--siz-2) dotted;
 }
+.seemore {
+  background-color: var(--color4);
+    color: var(--color5);
+    padding: var(--siz-1) var(--siz-4);
+    text-decoration: none;
+    border-radius: var(--siz-4);
+  }
+  .section-2 h1 {
+    width: 100%;
+    color: var(--color3);
+    
+    margin-top: var(--siz-6);
+  }
+  .section-2 {
+    text-align: center;
+  }
+  
 
 /*--------------------------------this style third child container--------------------------------------------*/
 
